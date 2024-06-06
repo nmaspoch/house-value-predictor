@@ -1,0 +1,7 @@
+name: house-value-predictor
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scikit-learn
